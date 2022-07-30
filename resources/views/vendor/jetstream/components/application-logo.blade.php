@@ -1,0 +1,1 @@
+<img src="/fix-logo.png" alt="" width="70px">
